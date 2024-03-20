@@ -48,20 +48,6 @@
       "descricao": "Descrição do jogo 7 Modificado",
       "foto": "jogo7.png",
       "preco": 500
-    },
-    {
-      "id": 0,
-      "produto": "Jogo 8",
-      "descricao": "Descrição Jogo 8",
-      "foto": "jogo7.png",
-      "preco": 200
-    },
-    {
-      "id": 0,
-      "produto": "Jogo 9",
-      "descricao": "Descrição Jogo 9",
-      "foto": "jogo1.png",
-      "preco": 100
     }
   ]
 }
