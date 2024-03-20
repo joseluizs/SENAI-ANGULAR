@@ -1,0 +1,29 @@
+{
+  "clientes": [
+    {
+      "id": "1",
+      "nome": "Felipe Santos",
+      "endereco": "Rua X"
+    },
+    {
+      "id": "2",
+      "nome": "Maria",
+      "endereco": "Rua X"
+    },
+    {
+      "id": "3",
+      "nome": "João",
+      "endereco": "Rua 25"
+    },
+    {
+      "id": "4",
+      "nome": "fwefwefwe",
+      "endereco": "sSa"
+    },
+    {
+      "id": 0,
+      "nome": "Luiz ",
+      "endereco": "QD 06"
+    }
+  ]
+}
