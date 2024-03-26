@@ -1,19 +1,24 @@
 {
   "clientes": [
     {
-      "id": "1",
+      "id": 1,
       "nome": "Felipe Santos",
       "endereco": "Rua X"
     },
     {
-      "id": "3",
+      "id": 3,
       "nome": "João",
       "endereco": "Rua 25"
     },
     {
-      "id": "4",
+      "id": 4,
       "nome": "José Luiz",
       "endereco": "Rua Quatro"
+    },
+    {
+      "id": 6,
+      "nome": "Luiz",
+      "endereco": "Quadra 1 conjunto 2 lote 1 bloco J "
     }
   ]
 }
